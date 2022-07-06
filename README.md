@@ -44,9 +44,8 @@ o	“C:MongoDB\bin\mongod.exe” — config “C:\MongoDB\mongod.cfg” — inst
 o	Net start MongoDB
 •	Import all the data to the database 
 
-##Credits
 
-### Reference Documentation
+## Credits
 For further reference, please consider the following sections:
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
