@@ -45,7 +45,6 @@ o	Net start MongoDB
 •	Import all the data to the database 
 
 ##Credits
-# Getting Started
 
 ### Reference Documentation
 For further reference, please consider the following sections:
