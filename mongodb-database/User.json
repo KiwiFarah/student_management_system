@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "62c5653c47142b42ee8a581a"
+  },
+  "ref_id": 0,
+  "firstName": "Test",
+  "lastName": "Dev",
+  "dateOfBirth": "12/12/1990",
+  "mobile": "0712365478",
+  "status": "Active",
+  "password": "123",
+  "accountType": "Student",
+  "_class": "com.example.UserService.User"
+}]
