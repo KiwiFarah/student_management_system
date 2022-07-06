@@ -25,24 +25,24 @@ Code style - **standard**
 
 ## Installation
 ### Prerequisites
-•	Install the most recent version of Windows 10 (Build 18362 or above) or Windows 11 (Version 1903 or higher).
-•	Install the Windows Subsystem for Linux (WSL), which should also include a Linux distribution (such as Ubuntu), and check to see that it is operating in WSL 2 mode. You are able to confirm this by launching PowerShell and typing in the following: wsl -l -v.
-•	Install Node.js on WSL 2: These instructions use Node Version Manager, often known as nvm, for the installation process. In order to execute create-react-app, you will need a current version of NodeJS, as well as a recent version of Node Package Manager (npm).
+-	Install the most recent version of Windows 10 (Build 18362 or above) or Windows 11 (Version 1903 or higher).
+-	Install the Windows Subsystem for Linux (WSL), which should also include a Linux distribution (such as Ubuntu), and check to see that it is operating in WSL 2 mode. You are able to confirm this by launching PowerShell and typing in the following: wsl -l -v.
+-	Install Node.js on WSL 2: These instructions use Node Version Manager, often known as nvm, for the installation process. In order to execute create-react-app, you will need a current version of NodeJS, as well as a recent version of Node Package Manager (npm).
 Run React Front-End
-•	Open a terminal (Windows Command Prompt or PowerShell).
-•	Move into project folder using the cd command
-•	Install/Update node module 
-•	Start the application using npm start command 
+-	Open a terminal (Windows Command Prompt or PowerShell).
+-	Move into project folder using the cd command
+- Install/Update node module 
+-	Start the application using npm start command 
 ### Run Spring Boot Backend
-•	First install the maven to environment variable
-•	Setup the connection with the mongo db database 
-•	Run the mvn spring-boot:run command 
+-	First install the maven to environment variable
+-	Setup the connection with the mongo db database 
+-	Run the mvn spring-boot:run command 
 ### Run Database Layer
-•	In order to install the MongoDB Windows service, use the following command while logged in as an administrator into the Command Prompt.
-o	“C:MongoDB\bin\mongod.exe” — config “C:\MongoDB\mongod.cfg” — install
-•	You may use the following command to start the MongoDB service on Windows.
-o	Net start MongoDB
-•	Import all the data to the database 
+-	In order to install the MongoDB Windows service, use the following command while logged in as an administrator into the Command Prompt.
+- “C:MongoDB\bin\mongod.exe” — config “C:\MongoDB\mongod.cfg” — install
+- You may use the following command to start the MongoDB service on Windows.
+- Net start MongoDB
+- Import all the data to the database 
 
 
 ## Credits
