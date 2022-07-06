@@ -5,7 +5,7 @@ A fully functional **student management system with basic CRUD operations** usin
 
 ## Key Features
 - Admin logs in to the login page where admin email and password are required for succesful login. 
-- If new admin the user can login by registering.
+- If the admin is new the user can login by registering.
 - Admins will be able to access the main dashboard under their domain and their user specific functionalities.
 - After admins log in to the system they are provided the option to add new students to the system.
 - Student details are displayed in the "view students" page and admins can manipulate all the data within the system boundary.
