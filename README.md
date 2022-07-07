@@ -1,7 +1,7 @@
 # student_management_system
 
 ## Description
-A fully functional **student management system with basic CRUD operations** using **ReactJS, Spring boot and MongoDB**. The system has been unit tested with proper error handling.
+A fully functional **student management system with basic CRUD operations** using **ReactJS, Springboot and MongoDB**. The system has been unit tested with proper error handling.
 
 ## Key Features
 - Admin logs in to the login page where admin email and password are required for succesful login. 
